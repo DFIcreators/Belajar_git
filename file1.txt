@@ -1,0 +1,9 @@
+Menulis perubahan pada file 1.txt
+
+git init.
+git add.
+git status
+git commit -m "Pesan"
+git log
+git remote
+git push -u master master
